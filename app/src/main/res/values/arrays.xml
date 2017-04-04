@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>1|ent|娱乐</item>
+        <item>2|war|军事</item>
+        <item>3|sport|体育</item>
+        <item>4|tech|科技</item>
+        <item>5|edu|教育</item>
+        <item>6|money|财经</item>
+        <item>7|gupiao|股票</item>
+        <item>8|travel|旅游</item>
+        <item>9|lady|女人</item>
+    </string-array>
+</resources>
